@@ -5,9 +5,58 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: white;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.buttons:hover{
+  color: white;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  background-color: #5D5854;
+  ;
+  padding: 30px;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.div1{
+  border-right: 1px solid #696662;
+  border-bottom: 1px solid #696662
+}
+.div2{
+  border-left: 1px solid #696662;
+  border-bottom: 1px solid #696662
+}
+.div3{
+  border-left: 1px solid #696662;
+  border-bottom: 1px solid #696662
+}
+.div4{
+  border-right: 1px solid #696662;
+  border-bottom: 1px solid #696662
+}
+.div5{
+  border-right: 1px solid #696662;
+  border-bottom: 1px solid #696662
+}
+.div6{
+  border-bottom: 1px solid #696662
+}
+.div7{
+  border-right: 1px solid #696662;
+}
+.div8{
+  border-right: 1px solid #696662;
 }
