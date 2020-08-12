@@ -1,6 +1,6 @@
 # TicTacToe With React
 
-Time to start building cool stuff, let's code our first ga!
+Time to start building cool stuff, let's code our first g!
 
 ![TicTacToe Preview](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true)
 
