@@ -1,4 +1,4 @@
-# TicTacToe With Rea
+# TicTacToe With Re
 
 Time to start building cool stuff, let's code our first game!
 
