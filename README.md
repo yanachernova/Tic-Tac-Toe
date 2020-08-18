@@ -1,4 +1,4 @@
-# TicTacToe With React.
+# TicTacToe With React.js
 
 Time to start building cool stuff, let's code our first game!
 
